@@ -1,0 +1,262 @@
+.corpo{
+    background-color:rgb(129, 191, 245);
+    margin:0 auto;
+    width:48%;
+    padding: 30px;
+    box-shadow: 000px 0px 100px rgb(88, 87, 87);
+    border-radius: 15px;
+
+}
+.titulo{
+    color:rgb(129, 191, 245);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+
+
+    border:none;
+    padding: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+   
+    font-weight: 900;
+    ;
+
+}
+.menu{
+    
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+
+
+}
+
+.rodape {
+    background-color: rgb(129, 191, 245) ;
+    text-align: center;
+    font-size: 10px;
+    width: 50%;
+    padding: 20px;
+    margin-left: 460px;
+    margin-top: 10px;
+    border-radius: 25px;
+    box-shadow: 000px 0px 8px rgb(88, 87, 87);
+}
+
+.calc-bhaskara{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+    color: #e26e6e;
+}
+
+
+
+.baskhara_{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+ 
+}
+
+
+.baskhara_voltar{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+ 
+}
+
+.quadrado_{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+    color: #e2a66e;
+}
+
+
+
+
+
+.quadrado_voltar{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+ 
+}
+
+.circulo_{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+    color: #78e26e;
+}
+
+
+.circulo_voltar{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+ 
+}
+
+
+
+.triangulo_{
+    text-align: center;
+    font-size: 25px;
+    padding: 5px;
+    color: #1eb4da;
+ 
+}
+
+.areaTriangulo{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;  
+}
+
+
+.triangulo_voltar{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;  
+}
+
+.trapezio_{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+    color: #c76ee2;
+}
+
+
+.trapezio_voltar{
+    text-align: center;
+    font-size: 25px;
+    padding: 1px;
+ 
+}
+
+
+
+
+
+
+
+#menu_triangulo{
+    color: #1eb4da;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+
+    ;
+}
+#menu_quadrado{
+    color: #e2a66e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px black;
+    font-weight: 900;
+    ;
+}
+#menu_trapezio{
+    color: #c76ee2;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px black;
+    font-weight: 900;
+    ;
+}
+#menu_circulo{
+    color: #78e26e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px black;
+    font-weight: 900;
+    
+    ;
+}
+#menu_baskhara{
+    color: #e26e6e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px black;
+    font-weight: 900;
+    ;
+}
+
+
+
+#botao_voltar_triangulo{
+    color: #1eb4da;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+}
+#botao_voltar_quadrado{
+    color: #e2a66e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+}
+#botao_voltar_trapezio{
+    color: #c76ee2;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+}
+#botao_voltar_circulo{
+    color: #78e26e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+#botao_voltar_baskhara{
+    color: #e26e6e;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 000px 0px 10px rgb(0, 0, 0);
+    font-weight: 900;
+}
+

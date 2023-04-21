@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trapézio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="trapezio_">
+        <h1>calculo de trapezio</h1>
+        <p>digite os dados a seguir para calcular:</p>
+        <form>
+            <input placeholder="baseMaior" id="baseMaior">
+            <input placeholder="baseMenor" id="baseMenor">
+            <input placeholder="altura" id="altura">
+        </form>
+        <button onclick="verificarTrapezio()">calcular</button>
+        <p id="trapezio"></p>
+    </div>
+    <div class="trapezio_voltar">
+        <input type="button" value="Voltar" onclick="history.go(-1)"id="botao_voltar_trapezio">
+    </div>
+<script src="script.js"></script>
+</body>
+    
+</html>
